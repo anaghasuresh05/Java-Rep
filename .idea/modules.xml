@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CountingValley.java/CountingValley.iml" filepath="$PROJECT_DIR$/CountingValley.java/CountingValley.iml" />
       <module fileurl="file://$PROJECT_DIR$/fibonacci/Java-Rep.iml" filepath="$PROJECT_DIR$/fibonacci/Java-Rep.iml" />
     </modules>
   </component>
